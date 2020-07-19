@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447093764319",
+    "firebase_url": "https://gem-app-9d8c2.firebaseio.com",
+    "project_id": "gem-app-9d8c2",
+    "storage_bucket": "gem-app-9d8c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447093764319:android:beeed2900750fdbd43b96a",
+        "android_client_info": {
+          "package_name": "com.mx.gem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447093764319-j5a48i9kq5qn4hjlb7i4d00e6sdbqq40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mx.gem",
+            "certificate_hash": "32beccf485a1d3fe4dc0317091f28962cfb3a460"
+          }
+        },
+        {
+          "client_id": "447093764319-gq3ebhgibs51ula2t5iueh2c8a3dop41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08HvMrg6XOaNBORMS9Rz0CG61ya2oBog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447093764319-gq3ebhgibs51ula2t5iueh2c8a3dop41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

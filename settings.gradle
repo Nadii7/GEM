@@ -1,0 +1,3 @@
+include ':Qr_Ar'
+include ':app'
+rootProject.name = "GEM"
